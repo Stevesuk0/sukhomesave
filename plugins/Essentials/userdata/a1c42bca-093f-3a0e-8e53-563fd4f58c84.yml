@@ -20,13 +20,13 @@ timestamps:
   login: 1752053968116
 money: '0'
 lastlocation:
-  world: 8de74a2e-026e-4459-ae71-a6161fa77d67
-  world-name: world_the_end
-  x: 249.52011719667422
-  y: 49.5
-  z: 18.69999998807907
-  yaw: -142.7637481689453
-  pitch: -9.345705032348633
+  world: b55b5406-9fb6-493d-89db-e355b0f5084e
+  world-name: world
+  x: -168.24625341316477
+  y: 67.0
+  z: -93.69999998807907
+  yaw: -171.32763671875
+  pitch: 16.53571891784668
 logoutlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world

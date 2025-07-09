@@ -22,11 +22,11 @@ money: '0'
 lastlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world
-  x: -168.24625341316477
-  y: 67.0
-  z: -93.69999998807907
-  yaw: -171.32763671875
-  pitch: 16.53571891784668
+  x: -138.34365652500688
+  y: 70.0
+  z: -185.2811903502586
+  yaw: -107.22645568847656
+  pitch: 1.7449225187301636
 logoutlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world

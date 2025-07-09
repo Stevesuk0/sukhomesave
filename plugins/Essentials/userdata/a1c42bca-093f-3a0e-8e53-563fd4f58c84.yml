@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752030853649
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752035409461
+  login: 1752034532671
+money: '0'
+lastlocation:
+  world: b55b5406-9fb6-493d-89db-e355b0f5084e
+  world-name: world
+  x: -168.1451902130579
+  y: 67.0
+  z: -89.59483548756305
+  yaw: 117.00518035888672
+  pitch: 23.31060791015625
+logoutlocation:
+  world: b55b5406-9fb6-493d-89db-e355b0f5084e
+  world-name: world
+  x: -156.5
+  y: 63.55
+  z: -95.5
+  yaw: -135.39862060546875
+  pitch: -33.7177619934082
+last-account-name: Steve_Official
+homes:
+  home:
+    world: b55b5406-9fb6-493d-89db-e355b0f5084e
+    world-name: world
+    x: -169.53952980095997
+    y: 67.0
+    z: -97.9045076769987
+    yaw: 2.724853515625
+    pitch: 28.31829071044922

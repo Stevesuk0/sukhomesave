@@ -57,7 +57,7 @@ unregister:
 # 其他提示信息
 misc:
   accounts_owned_self: '当前服务器注册了 %count 个玩家：'
-  accounts_owned_other: '玩家 %name 加入了服务器。 \n当前服务器注册了 %count 个玩家：'
+  accounts_owned_other: '玩家 %name 登录到了服务器。当前服务器已注册 %count 名玩家。'
   account_not_activated: '&c你的账号尚未激活，请查收激活邮件！'
   password_changed: '&2密码修改成功！'
   logout: '&2已成功登出！'

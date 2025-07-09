@@ -895,6 +895,7 @@
       "minecraft:ender_dragon": "2025-07-08 13:28:09 +0800",
       "minecraft:hoglin": "2025-07-07 17:26:20 +0800",
       "minecraft:shulker": "2025-07-08 13:34:19 +0800",
+      "minecraft:cave_spider": "2025-07-09 21:52:44 +0800",
       "minecraft:piglin": "2025-07-07 17:29:56 +0800",
       "minecraft:enderman": "2025-07-07 17:25:13 +0800",
       "minecraft:magma_cube": "2025-07-07 15:47:40 +0800",
@@ -3462,6 +3463,54 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-07-09 17:53:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-07-09 22:15:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-07-09 21:17:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-09 22:07:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-09 22:07:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-07-09 22:07:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-07-09 22:15:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-07-09 22:07:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-07-09 21:17:41 +0800"
     },
     "done": true
   },

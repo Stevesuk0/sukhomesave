@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1751976978876
-  login: 1751976316470
+  logout: 1752072619745
+  login: 1752071543139
 money: '0'
 last-account-name: Anothing
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world
-  x: -157.5186132666021
-  y: 63.0
-  z: -86.91794196149534
-  yaw: -93.28158569335938
-  pitch: 13.64998722076416
+  x: -140.0208182019253
+  y: -1.0
+  z: -156.02551613929688
+  yaw: -99.175048828125
+  pitch: 6.3001909255981445

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.0.0.1
+ip-address: 192.168.101.170
 afk: false
 socialspy: false
 npc: false
@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752034120413
-  login: 1752029204154
+  logout: 1752041749165
+  login: 1752054006020
 money: '0'
 last-account-name: bzym2
 logoutlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world
-  x: -153.14220323653163
-  y: 62.0
-  z: -90.30000001192093
-  yaw: 6.863525390625
-  pitch: 22.917394638061523
+  x: -162.4561360693824
+  y: 65.25220334025373
+  z: -134.32473731298177
+  yaw: -107.87814331054688
+  pitch: 28.049776077270508
 lastlocation:
   world: 8de74a2e-026e-4459-ae71-a6161fa77d67
   world-name: world_the_end

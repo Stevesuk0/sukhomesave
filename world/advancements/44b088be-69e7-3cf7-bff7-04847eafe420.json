@@ -347,6 +347,7 @@
     "criteria": {
       "minecraft:blaze": "2025-07-07 15:50:31 +0800",
       "minecraft:skeleton": "2025-07-07 14:00:04 +0800",
+      "minecraft:zombified_piglin": "2025-07-09 16:56:43 +0800",
       "minecraft:wither_skeleton": "2025-07-07 15:48:43 +0800",
       "minecraft:ghast": "2025-07-07 16:08:42 +0800",
       "minecraft:hoglin": "2025-07-07 17:27:19 +0800",
@@ -355,6 +356,7 @@
       "minecraft:piglin": "2025-07-07 15:58:29 +0800",
       "minecraft:enderman": "2025-07-07 14:35:17 +0800",
       "minecraft:magma_cube": "2025-07-07 15:36:31 +0800",
+      "minecraft:endermite": "2025-07-09 17:33:49 +0800",
       "minecraft:spider": "2025-07-07 13:43:07 +0800",
       "minecraft:zombie": "2025-07-07 13:44:47 +0800",
       "minecraft:creeper": "2025-07-07 15:04:34 +0800",
@@ -3317,6 +3319,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-07-09 12:04:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-09 16:58:18 +0800"
     },
     "done": true
   },

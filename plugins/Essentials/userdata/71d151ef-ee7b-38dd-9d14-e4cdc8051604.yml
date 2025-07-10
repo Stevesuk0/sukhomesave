@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752132407578
+  logout: 1752136647599
   login: 1752132472703
 money: '0'
 last-account-name: X1AOX1E
 logoutlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world
-  x: -93.69999998807907
-  y: -52.0
-  z: -208.45207439583896
-  yaw: 139.34681701660156
-  pitch: 41.999961853027344
+  x: -155.30000001192093
+  y: 64.0
+  z: -139.69999998807907
+  yaw: 10.050046920776367
+  pitch: 25.649991989135742
 lastlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world

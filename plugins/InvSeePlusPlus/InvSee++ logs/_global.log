@@ -64,3 +64,39 @@ Spectator Name: Steve_Official
 Taken         : []
 Given         : [DIAMOND_HELMET & ARMOR_META:{meta-type=ARMOR, enchants={minecraft:unbreaking=3, minecraft:protection=3}, Damage=88} x 1, DIAMOND_CHESTPLATE & ARMOR_META:{meta-type=ARMOR, Damage=157} x 1, DIAMOND_LEGGINGS & ARMOR_META:{meta-type=ARMOR, enchants={minecraft:unbreaking=3, minecraft:protection=3}, repair-cost=3, Damage=121} x 1, DIAMOND_BOOTS & ARMOR_META:{meta-type=ARMOR, Damage=133} x 1, DIAMOND x 32, STICK x 2, CRAFTING_TABLE x 1, BREAD x 64, SHIELD & SHIELD_META:{meta-type=SHIELD, Damage=37} x 1, NETHERITE_UPGRADE_SMITHING_TEMPLATE x 8]
 Target        : X1AOX1E
+[2025-07-10 17:04:15] [INFO]:
+Spectator UUID: a1c42bca-093f-3a0e-8e53-563fd4f58c84
+Spectator Name: Steve_Official
+Taken         : [ANCIENT_DEBRIS x 2]
+Given         : []
+Target        : bzym2
+[2025-07-10 17:04:46] [INFO]:
+Spectator UUID: a1c42bca-093f-3a0e-8e53-563fd4f58c84
+Spectator Name: Steve_Official
+Taken         : []
+Given         : [ANCIENT_DEBRIS x 2]
+Target        : bzym2
+[2025-07-10 17:13:51] [INFO]:
+Spectator UUID: ab47288d-7c46-31f4-bcc5-cf4b16acdf06
+Spectator Name: bzym2
+Taken         : [GOLD_INGOT x 11]
+Given         : []
+Target        : 5291
+[2025-07-10 17:13:51] [INFO]:
+Spectator UUID: ab47288d-7c46-31f4-bcc5-cf4b16acdf06
+Spectator Name: bzym2
+Taken         : [GOLD_INGOT x 11]
+Given         : []
+Target        : 5291
+[2025-07-10 17:14:07] [INFO]:
+Spectator UUID: ab47288d-7c46-31f4-bcc5-cf4b16acdf06
+Spectator Name: bzym2
+Taken         : [GOLD_INGOT x 12]
+Given         : []
+Target        : 5291
+[2025-07-10 17:14:21] [INFO]:
+Spectator UUID: ab47288d-7c46-31f4-bcc5-cf4b16acdf06
+Spectator Name: bzym2
+Taken         : [GOLD_INGOT x 37]
+Given         : []
+Target        : Steve_Official

@@ -11,37 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1752054233953
+  lastteleport: 1752135818250
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752075424632
-  login: 1752075421513
+  logout: 1752122012054
+  login: 1752131177156
 money: '0'
 lastlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world
-  x: -138.34365652500688
-  y: 70.0
-  z: -185.2811903502586
-  yaw: -107.22645568847656
-  pitch: 1.7449225187301636
+  x: -155.1341087192257
+  y: 68.0
+  z: -147.30512465911886
+  yaw: 167.3751678466797
+  pitch: 17.851581573486328
 logoutlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world
-  x: -168.4103796778511
-  y: 67.0
-  z: -88.52119768357764
-  yaw: 51.44156265258789
-  pitch: 18.957801818847656
+  x: -164.69999998807907
+  y: 63.0
+  z: -99.73222509042935
+  yaw: 120.29293823242188
+  pitch: 19.77861976623535
 last-account-name: Steve_Official
-homes:
-  home:
-    world: b55b5406-9fb6-493d-89db-e355b0f5084e
-    world-name: world
-    x: -169.53952980095997
-    y: 67.0
-    z: -97.9045076769987
-    yaw: 2.724853515625
-    pitch: 28.31829071044922

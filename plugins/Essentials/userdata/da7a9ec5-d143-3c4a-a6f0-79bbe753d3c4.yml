@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752135062799
-  login: 1752134351688
+  logout: 1752238007652
+  login: 1752237959914
 money: '0'
 last-account-name: bzby3
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: b55b5406-9fb6-493d-89db-e355b0f5084e
   world-name: world
-  x: -157.9436724885797
-  y: 63.5
-  z: -131.72560444328371
-  yaw: -171.3000946044922
-  pitch: -17.39997100830078
+  x: -155.31835376308766
+  y: 64.0
+  z: -137.4302814959409
+  yaw: 174.2998046875
+  pitch: 12.599878311157227
